@@ -1,0 +1,25 @@
+Mini-curso HTML + CSS
+
+HTML 
+- Linguagem de marcação
+- tags/ elementos
+
+<!-- comentário -->
+
+-atributos adiciona informações ou configuração à uma tags
+
+<a href=" https:..."> ver site</a>
+<img src="imagem.jpg">
+
+site: https://www.fronteditor.dev/
+
+BOX MODEL
+
+
+display: inline
+display: block
+
+margin
+pading
+height
+width
